@@ -1,0 +1,98 @@
+h2{
+color:black;
+text-align: center;
+background-color:;
+padding-top: px;
+padding-bottom: 30px;
+width: auto;
+justify-content:
+}
+
+.Slider {
+  margin: 50px;
+  background-color:black;
+
+
+}
+
+.App {
+  background-color:black;
+
+}
+.SidebySide {
+
+
+  color: white;
+  text-align: center;
+  line-height:2;
+  padding-bottom: 16px;
+  height: auto;
+  width: 100vw;
+padding-right: 30px
+
+}
+.Range {
+  height: 50vh;
+  width: 100vw;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  display: inline-flex;
+  justify-content: center;
+  padding-bottom: 10px;
+  font-size: 14px
+}
+
+.item_textDesc{
+
+
+}
+
+.item_lowerThird {
+  box-sizing: border-box;
+  width: ;
+  padding-top:10px ;
+  color: white;
+
+
+}
+.textleft {
+padding-top:90px;
+padding-right: 10px;
+white-space: nowrap;
+
+}
+.textcenter {
+  padding-top: 90px;
+  padding-left: 55px;
+  padding-right:55px;
+  white-space: nowrap;
+}
+.textright {
+  padding-top: 90px;
+  padding-left: 10px;
+  white-space: nowrap;
+}
+
+
+
+.Ludicrous {
+  background-color: white;
+  width: 100vw;
+  height: 35vh;
+  padding-top: 25px;
+  justify-content: center;
+
+
+
+}
+.button {
+color: white;
+text-align: center;
+padding-right:
+}
+
+.powertrain {
+  
+  text-align: center;
+}
