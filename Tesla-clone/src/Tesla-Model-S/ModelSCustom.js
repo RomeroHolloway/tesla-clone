@@ -1,17 +1,17 @@
 import React from 'react'
-import Header from 'C:/React Projects/tesla-clone/Tesla-clone/src/componets/Header.js'
-import ModelS_Item from 'C:/React Projects/tesla-clone/Tesla-clone/src/Tesla-Model-S/ModelS_Item.js'
-import ModelS_Item2 from 'C:/React Projects/tesla-clone/Tesla-clone/src/Tesla-Model-S/ModelS_Item2.js'
-import Slider from 'C:/React Projects/tesla-clone/Tesla-clone/src/Tesla-Model-S/ModelS_Item3.js'
-import SidebySide1 from "C:/React Projects/tesla-clone/Tesla-clone/src/Tesla-Model-S/ModelS_Item4.js"
-import  RangeLow from "C:/React Projects/tesla-clone/Tesla-clone/src/Tesla-Model-S/ModelS_Item5.js"
-import Range from "C:/React Projects/tesla-clone/Tesla-clone/src/Tesla-Model-S/ModelS_Item5.js"
+import Header from '../componets/Header.js'
+import ModelS_Item from './ModelS_Item.js'
+import ModelS_Item2 from './ModelS_Item2.js'
+import Slider from './ModelS_Item3.js'
+import SidebySide1 from "./ModelS_Item4.js"
+import  RangeLow from "./ModelS_Item5.js"
+import Range from "./ModelS_Item5.js"
 import ModelS from '../assets/Desktop-ModelS2.jpg'
-import TeslaINT from "C:/React Projects/tesla-clone/Tesla-clone/src/assets/New-Tesla-Model-S-interior-hero.jpg"
+import TeslaINT from "../assets/New-Tesla-Model-S-interior-hero.jpg"
 import 'bootstrap/dist/css/bootstrap.min.css';
-import 'C:/React Projects/tesla-clone/Tesla-clone/src/Tesla-Model-S/Models.css'
-import Ludicrous from 'C:/React Projects/tesla-clone/Tesla-clone/src/Tesla-Model-S/ModelS_Item6.js'
-import Power_Train from 'C:/React Projects/tesla-clone/Tesla-clone/src/Tesla-Model-S/ModelS_Item7.js'
+import './Models.css'
+import Ludicrous from './ModelS_Item6.js'
+import Power_Train from './ModelS_Item7.js'
 
 function ModelSCustom() {
   return (

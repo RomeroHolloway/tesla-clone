@@ -1,8 +1,8 @@
 import React from 'react'
 
 import {Container,Row,Col} from 'react-bootstrap'
-import "C:/React Projects/tesla-clone/Tesla-clone/src/Tesla-Model-S/Models.css"
-import Button from 'C:/React Projects/tesla-clone/Tesla-clone/src/componets/Button.js'
+import "./Models.css"
+import Button from '../componets/Button.js'
 
 const Ludicrous = ({title,desc,descLink,backgroundImg,leftBtnTxt,leftBtnLink,rightBtnTxt,rightBtnLink,twoButtons,textleft,textleftdesc,textcenter,textcenterdesc,textright,textrightdesc}) => {
   return (

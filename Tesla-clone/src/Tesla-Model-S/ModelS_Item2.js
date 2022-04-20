@@ -1,6 +1,6 @@
-import Button from 'C:/React Projects/tesla-clone/Tesla-clone/src/componets/Button.js'
+import Button from '../componets/Button.js'
 import {Carousel,CarousellItem, CarouselCaption} from 'react-bootstrap'
-import 'C:/React Projects/tesla-clone/Tesla-clone/src/assets/New-Tesla-Model-S-interior-hero.jpg'
+import '../assets/New-Tesla-Model-S-interior-hero.jpg'
 
 import React from 'react'
 

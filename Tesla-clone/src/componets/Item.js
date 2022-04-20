@@ -1,5 +1,5 @@
 import React from 'react'
-import Button from 'C:/React Projects/tesla-clone/Tesla-clone/src/componets/Button.js'
+import Button from './Button.js'
 import './Item.css'
 import ExpandMoreIcon from '@material-ui/icons/ExpandMore';
 

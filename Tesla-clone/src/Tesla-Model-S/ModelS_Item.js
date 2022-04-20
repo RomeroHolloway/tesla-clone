@@ -1,4 +1,4 @@
-import Button from 'C:/React Projects/tesla-clone/Tesla-clone/src/componets/Button.js'
+import Button from '../componets/Button.js'
 import Carousel from 'react-bootstrap/Carousel'
 
 const ModelS_Item= ({title,desc,descLink,backgroundImg,leftBtnTxt,leftBtnLink,rightBtnTxt,rightBtnLink,twoButtons,first}) => {

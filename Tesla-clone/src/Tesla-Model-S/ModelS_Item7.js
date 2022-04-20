@@ -1,6 +1,6 @@
 import React from 'react'
 import {Container,Jumbotron} from 'react-bootstrap'
-import "C:/React Projects/tesla-clone/Tesla-clone/src/Tesla-Model-S/Models.css"
+import "./Models.css"
 
 
 

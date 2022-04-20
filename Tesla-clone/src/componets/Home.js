@@ -1,6 +1,6 @@
 
 import './Home.css';
-import Header from 'C:/React Projects/tesla-clone/Tesla-clone/src/componets/Header.js'
+import Header from './Header.js'
 import Item from '../componets/Item.js'
 
 

@@ -1,6 +1,7 @@
 import React from 'react';
 import './Header.css'
-import TeslaLogo from "C:/React Projects/tesla-clone/Tesla-clone/src/assets/teslaLogoSmall.svg";
+import TeslaLogo from "../assets/teslaLogoSmall.svg";
+import {Link} from 'react-router-dom';
 
 
 const Header = () => {
@@ -11,8 +12,8 @@ const Header = () => {
         </div>
 
     <div className="header_center">
-    <a href = "./ModelSCustom">ModelS</a>
-    <a href="./Model3">Model 3</a>
+    <Link to = "./ModelSCustom"><p>ModelS</p></Link>
+    <a href="./Model3"><p>Model 3</p></a>
     <a href="">Model Y</a>
     <a href="">Solar Roof</a>
     <a href="">Solar Panels</a>
